@@ -25,8 +25,8 @@
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
     <siteAdmin>sibhirajan249@resourceful-panda-1t6eks.com</siteAdmin>
     <siteGuestRecordDefaultOwner
-    >test-yypfaowt42yo@example.com</siteGuestRecordDefaultOwner>
+    >sibhirajan249@resourceful-panda-1t6eks.comsiteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>efficiency-connect-1801-dev--1701a0bb7eb</subdomain>
+    <subdomain>https://resourceful-panda-1t6eks-dev-ed.trailblaze.lightning.force.com</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
